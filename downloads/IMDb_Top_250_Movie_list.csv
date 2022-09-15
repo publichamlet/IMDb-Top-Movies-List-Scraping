@@ -1,5 +1,251 @@
 Movie Title,Release Year,Storyline,Movie Genre,Movie Duration,IMDb Movie Rating,Movie Certification,IMDb Users Votes
-The Shawshank Redemption,1994,<bound method MovieInnerPage.movieStory of <moviePage.moviePage.MovieInnerPage object at 0x7f178469a800>>,<bound method MovieInnerPage.movieCategories of <moviePage.moviePage.MovieInnerPage object at 0x7f178469a800>>,<bound method MovieInnerPage.movieHours of <moviePage.moviePage.MovieInnerPage object at 0x7f178469a800>>,<bound method MovieInnerPage.movieRating of <moviePage.moviePage.MovieInnerPage object at 0x7f178469a800>>,<bound method MovieInnerPage.movieCert of <moviePage.moviePage.MovieInnerPage object at 0x7f178469a800>>,<bound method MovieInnerPage.movieVote of <moviePage.moviePage.MovieInnerPage object at 0x7f178469a800>>
-The Godfather,1972,<bound method MovieInnerPage.movieStory of <moviePage.moviePage.MovieInnerPage object at 0x7f1786bc3fa0>>,<bound method MovieInnerPage.movieCategories of <moviePage.moviePage.MovieInnerPage object at 0x7f1786bc3fa0>>,<bound method MovieInnerPage.movieHours of <moviePage.moviePage.MovieInnerPage object at 0x7f1786bc3fa0>>,<bound method MovieInnerPage.movieRating of <moviePage.moviePage.MovieInnerPage object at 0x7f1786bc3fa0>>,<bound method MovieInnerPage.movieCert of <moviePage.moviePage.MovieInnerPage object at 0x7f1786bc3fa0>>,<bound method MovieInnerPage.movieVote of <moviePage.moviePage.MovieInnerPage object at 0x7f1786bc3fa0>>
-The Dark Knight,2008,<bound method MovieInnerPage.movieStory of <moviePage.moviePage.MovieInnerPage object at 0x7f178469a980>>,<bound method MovieInnerPage.movieCategories of <moviePage.moviePage.MovieInnerPage object at 0x7f178469a980>>,<bound method MovieInnerPage.movieHours of <moviePage.moviePage.MovieInnerPage object at 0x7f178469a980>>,<bound method MovieInnerPage.movieRating of <moviePage.moviePage.MovieInnerPage object at 0x7f178469a980>>,<bound method MovieInnerPage.movieCert of <moviePage.moviePage.MovieInnerPage object at 0x7f178469a980>>,<bound method MovieInnerPage.movieVote of <moviePage.moviePage.MovieInnerPage object at 0x7f178469a980>>
-The Godfather Part II,1974,<bound method MovieInnerPage.movieStory of <moviePage.moviePage.MovieInnerPage object at 0x7f1783ef82e0>>,<bound method MovieInnerPage.movieCategories of <moviePage.moviePage.MovieInnerPage object at 0x7f1783ef82e0>>,<bound method MovieInnerPage.movieHours of <moviePage.moviePage.MovieInnerPage object at 0x7f1783ef82e0>>,<bound method MovieInnerPage.movieRating of <moviePage.moviePage.MovieInnerPage object at 0x7f1783ef82e0>>,<bound method MovieInnerPage.movieCert of <moviePage.moviePage.MovieInnerPage object at 0x7f1783ef82e0>>,<bound method MovieInnerPage.movieVote of <moviePage.moviePage.MovieInnerPage object at 0x7f1783ef82e0>>
+The Shawshank Redemption,1994,"Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",Drama,2h 22m,9.3/10,A,2.6M
+The Godfather,1972,The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.,"Crime, Drama",2h 55m,9.2/10,A,1.8M
+The Dark Knight,2008,"When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.","Action, Crime, Drama",2h 32m,9.0/10,UA,2.6M
+The Godfather Part II,1974,"The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.","Crime, Drama",3h 22m,9.0/10,A,1.3M
+12 Angry Men,1957,The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.,"Crime, Drama",1h 36m,9.0/10,U,779K
+Schindler's List,1993,"In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.","Biography, Drama, History",3h 15m,9.0/10,A,1.3M
+The Lord of the Rings: The Return of the King,2003,Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.,"Action, Adventure, Drama",3h 21m,9.0/10,U,1.8M
+Pulp Fiction,1994,"The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.","Crime, Drama",2h 34m,8.9/10,A,2M
+The Lord of the Rings: The Fellowship of the Ring,2001,A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.,"Action, Adventure, Drama",2h 58m,8.8/10,U,1.8M
+"Il buono, il brutto, il cattivo",1966,A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.,"Adventure, Western",2h 41m,8.8/10,A,754K
+Forrest Gump,1994,,"Drama, Romance",2h 22m,8.8/10,UA,2M
+Fight Club,1999,An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.,Drama,2h 19m,8.8/10,A,2.1M
+Inception,2010,,"Action, Adventure, Sci-Fi",2h 28m,8.8/10,UA,2.3M
+The Lord of the Rings: The Two Towers,2002,"While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.","Action, Adventure, Drama",2h 59m,8.8/10,UA,1.6M
+The Empire Strikes Back,1980,,"Action, Adventure, Fantasy",2h 4m,8.7/10,UA,1.3M
+The Matrix,1999,"When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.","Action, Sci-Fi",2h 16m,8.7/10,A,1.9M
+Goodfellas,1990,,"Biography, Crime, Drama",2h 25m,8.7/10,A,1.1M
+One Flew Over the Cuckoo's Nest,1975,"In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies up the scared patients against the tyrannical nurse.",Drama,2h 13m,8.7/10,A,997K
+Se7en,1995,"Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.","Crime, Drama, Mystery",2h 7m,8.6/10,A,1.6M
+Shichinin no samurai,1954,,"Action, Drama",3h 27m,8.6/10,U,344K
+It's a Wonderful Life,1946,An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.,"Drama, Family, Fantasy",2h 10m,8.6/10,PG,451K
+The Silence of the Lambs,1991,"A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.","Crime, Drama, Thriller",1h 58m,8.6/10,A,1.4M
+Cidade de Deus,2002,"In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.","Crime, Drama",2h 10m,8.6/10,A,750K
+Saving Private Ryan,1998,"Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.","Drama, War",2h 49m,8.6/10,A,1.4M
+La vita è bella,1997,,"Comedy, Drama, Romance",1h 56m,8.6/10,U,687K
+The Green Mile,1999,"The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.","Crime, Drama, Fantasy",3h 9m,8.6/10,UA,1.3M
+Interstellar,2014,A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.,"Adventure, Drama, Sci-Fi",2h 49m,8.6/10,UA,1.8M
+Star Wars,1977,,"Action, Adventure, Fantasy",2h 1m,8.6/10,U,1.3M
+Terminator 2: Judgment Day,1991,"A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten-year-old son John from a more advanced and powerful cyborg.","Action, Sci-Fi",2h 17m,8.6/10,A,1.1M
+Back to the Future,1985,"Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.","Adventure, Comedy, Sci-Fi",1h 56m,8.5/10,U,1.2M
+Sen to Chihiro no kamikakushi,2001,"During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.","Animation, Adventure, Family",2h 5m,8.6/10,U,750K
+Psycho,1960,"A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.","Horror, Mystery, Thriller",1h 49m,8.5/10,A,664K
+The Pianist,2002,A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.,"Biography, Drama, Music",2h 30m,8.5/10,13,820K
+Léon,1994,,"Action, Crime, Drama",1h 50m,8.5/10,A,1.1M
+Gisaengchung,2019,Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.,"Comedy, Drama, Thriller",2h 12m,8.5/10,A,775K
+The Lion King,1994,"Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.","Animation, Adventure, Drama",1h 28m,8.5/10,U,1M
+Gladiator,2000,A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.,"Action, Adventure, Drama",2h 35m,8.5/10,UA,1.5M
+American History X,1998,A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.,"Crime, Drama",1h 59m,8.5/10,R,1.1M
+The Departed,2006,An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.,"Crime, Drama, Thriller",2h 31m,8.5/10,A,1.3M
+The Usual Suspects,1995,"A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.","Crime, Mystery, Thriller",1h 46m,8.5/10,A,1.1M
+The Prestige,2006,"After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.","Drama, Mystery, Sci-Fi",2h 10m,8.5/10,U,1.3M
+Casablanca,1942,A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.,"Drama, Romance, War",1h 42m,8.5/10,U,567K
+Whiplash,2014,A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.,"Drama, Music",1h 46m,8.5/10,A,838K
+The Intouchables,2011,"After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.","Biography, Comedy, Drama",1h 52m,8.5/10,UA,846K
+Seppuku,1962,,"Action, Drama, Mystery",2h 13m,8.6/10,Not Rated,56K
+Hotaru no haka,1988,A young boy and his little sister struggle to survive in Japan during World War II.,"Animation, Drama, War",1h 29m,8.5/10,U,273K
+Modern Times,1936,The Tramp struggles to live in modern industrial society with the help of a young homeless woman.,"Comedy, Drama, Romance",1h 27m,8.5/10,G,241K
+Once Upon a Time in the West,1968,A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.,Western,2h 45m,8.5/10,U,327K
+Rear Window,1954,,"Mystery, Thriller",1h 52m,8.5/10,U,487K
+Alien,1979,The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.,"Horror, Sci-Fi",1h 57m,8.5/10,R,871K
+City Lights,1931,"With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.","Comedy, Drama, Romance",1h 27m,8.5/10,G,184K
+Nuovo Cinema Paradiso,1988,A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.,"Drama, Romance",2h 35m,8.5/10,U,259K
+Apocalypse Now,1979,A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.,"Drama, Mystery, War",2h 27m,8.5/10,R,661K
+Memento,2000,A man with short-term memory loss attempts to track down his wife's murderer.,"Mystery, Thriller",1h 53m,8.4/10,UA,1.2M
+Raiders of the Lost Ark,1981,"Archaeology professor Indiana Jones ventures to seize a biblical artefact known as the Ark of the Covenant. While doing so, he puts up a fight against Renee and a troop of Nazis.","Action, Adventure",1h 55m,8.4/10,A,957K
+Django Unchained,2012,"With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi.","Drama, Western",2h 45m,8.4/10,A,1.5M
+WALL·E,2008,"In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.","Animation, Adventure, Family",1h 38m,8.4/10,U,1.1M
+The Lives of Others,2006,"In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.","Drama, Mystery, Thriller",2h 17m,8.4/10,A,387K
+Sunset Blvd.,1950,A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.,"Drama, Film-Noir",1h 50m,8.4/10,Passed,221K
+Paths of Glory,1957,"After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.","Drama, War",1h 28m,8.4/10,A,196K
+The Shining,1980,"A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.","Drama, Horror",2h 26m,8.4/10,A,1M
+The Great Dictator,1940,Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.,"Comedy, Drama, War",2h 5m,8.4/10,G,223K
+Avengers: Infinity War,2018,The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.,"Action, Adventure, Sci-Fi",2h 29m,8.4/10,UA,1.1M
+Witness for the Prosecution,1957,A veteran British barrister must defend his client in a murder trial that has surprise after surprise.,"Crime, Drama, Mystery",1h 56m,8.4/10,U,125K
+Top Gun: Maverick,2022,,"Action, Drama",2h 10m,8.5/10,UA,359K
+Aliens,1986,,"Action, Adventure, Sci-Fi",2h 17m,8.4/10,U,711K
+American Beauty,1999,A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.,Drama,2h 2m,8.4/10,UA,1.1M
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,"An insane American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop.","Comedy, War",1h 35m,8.4/10,A,487K
+Spider-Man: Into the Spider-Verse,2018,"Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.","Animation, Action, Adventure",1h 57m,8.4/10,U,514K
+The Dark Knight Rises,2012,"Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.","Action, Drama",2h 44m,8.4/10,UA,1.7M
+Oldeuboi,2003,"After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.","Action, Drama, Mystery",1h 41m,8.4/10,A,572K
+Joker,2019,A mentally troubled stand-up comedian embarks on a downward spiral that leads to the creation of an iconic villain.,"Crime, Drama, Thriller",2h 2m,8.4/10,A,1.2M
+Amadeus,1984,,"Biography, Drama, Music",2h 40m,8.4/10,PG,399K
+Braveheart,1995,Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.,"Biography, Drama, History",2h 58m,8.4/10,A,1M
+Toy Story,1995,A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom.,"Animation, Adventure, Comedy",1h 21m,8.3/10,U,983K
+Coco,2017,"Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.","Animation, Adventure, Comedy",1h 45m,8.4/10,U,495K
+Inglourious Basterds,2009,"In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.","Adventure, Drama, War",2h 33m,8.3/10,A,1.4M
+Das Boot,1981,"The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.","Drama, War",2h 29m,8.4/10,AA,250K
+Mononoke-hime,1997,,"Animation, Action, Adventure",2h 14m,8.4/10,U,390K
+Avengers: Endgame,2019,,"Action, Adventure, Drama",3h 1m,8.4/10,UA,1.1M
+Once Upon a Time in America,1984,"A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life.","Crime, Drama",3h 49m,8.3/10,A,349K
+Good Will Hunting,1997,"Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.","Drama, Romance",2h 6m,8.3/10,U,955K
+Kimi no na wa.,2016,"Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?","Animation, Drama, Fantasy",1h 46m,8.4/10,U,262K
+Requiem for a Dream,2000,The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.,Drama,1h 42m,8.3/10,A,833K
+Toy Story 3,2010,,"Animation, Adventure, Comedy",1h 43m,8.3/10,U,828K
+Singin' in the Rain,1952,A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood.,"Comedy, Musical, Romance",1h 43m,8.3/10,G,241K
+3 Idiots,2009,,"Comedy, Drama",2h 50m,8.4/10,UA,396K
+Tengoku to jigoku,1963,An executive of a Yokohama shoe company becomes a victim of extortion when his chauffeur's son is kidnapped by mistake and held for ransom.,"Crime, Drama, Mystery",2h 23m,8.4/10,Not Rated,45K
+Star Wars: Episode VI - Return of the Jedi,1983,,"Action, Adventure, Fantasy",2h 11m,8.3/10,U,1M
+2001: A Space Odyssey,1968,,"Adventure, Sci-Fi",2h 29m,8.3/10,U,662K
+Eternal Sunshine of the Spotless Mind,2004,"When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.","Drama, Romance, Sci-Fi",1h 48m,8.3/10,UA,996K
+Reservoir Dogs,1992,"When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.","Crime, Thriller",1h 39m,8.3/10,15+,1M
+Capharnaüm,2018,"While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect.",Drama,2h 6m,8.4/10,A,88K
+Jagten,2012,,Drama,1h 55m,8.3/10,7,326K
+Lawrence of Arabia,1962,"The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.","Adventure, Biography, Drama",3h 38m,8.3/10,U,292K
+Citizen Kane,1941,"Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: 'Rosebud.'","Drama, Mystery",1h 59m,8.3/10,UA,440K
+M - Eine Stadt sucht einen Mörder,1931,"When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.","Crime, Mystery, Thriller",1h 57m,8.3/10,Passed,157K
+North by Northwest,1959,"A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.","Action, Adventure, Mystery",2h 16m,8.3/10,U,326K
+Idi i smotri,1985,"After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.","Drama, Thriller, War",2h 22m,8.4/10,A,78K
+Vertigo,1958,,"Mystery, Romance, Thriller",2h 8m,8.3/10,A,400K
+Le fabuleux destin d'Amélie Poulain,2001,"Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.","Comedy, Romance",2h 2m,8.3/10,U,751K
+A Clockwork Orange,1971,"In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.","Crime, Sci-Fi",2h 16m,8.3/10,A,822K
+Double Indemnity,1944,,"Crime, Drama, Film-Noir",1h 47m,8.3/10,Passed,157K
+Full Metal Jacket,1987,A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.,"Drama, War",1h 56m,8.3/10,UA,736K
+The Apartment,1960,"A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.","Comedy, Drama, Romance",2h 5m,8.3/10,U,181K
+Ikiru,1952,A bureaucrat tries to find meaning in his life after he discovers he has terminal cancer.,Drama,2h 23m,8.3/10,U,78K
+Scarface,1983,"In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.","Crime, Drama",2h 50m,8.3/10,A,829K
+The Sting,1973,Two grifters team up to pull off the ultimate con.,"Comedy, Crime, Drama",2h 9m,8.3/10,U,261K
+To Kill a Mockingbird,1962,"Atticus Finch, a widowed lawyer in Depression-era Alabama, defends a black man against an undeserved rape charge, and his children against prejudice.","Crime, Drama",2h 9m,8.3/10,U,315K
+Taxi Driver,1976,"A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.","Crime, Drama",1h 54m,8.2/10,A,818K
+Heat,1995,A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a clue at their latest heist.,"Action, Crime, Drama",2h 50m,8.3/10,A,648K
+Up,2009,"78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.","Animation, Adventure, Comedy",1h 36m,8.3/10,U,1M
+L.A. Confidential,1997,"As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.","Crime, Drama, Mystery",2h 18m,8.2/10,A,579K
+Incendies,2010,Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.,"Drama, Mystery",2h 11m,8.3/10,18,176K
+Metropolis,1927,,"Drama, Sci-Fi",2h 33m,8.3/10,Not Rated,174K
+Jodaeiye Nader az Simin,2011,,Drama,2h 3m,8.3/10,7,244K
+Hamilton,2020,,"Biography, Drama, History",2h 40m,8.3/10,12+,92K
+Die Hard,1988,An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.,"Action, Thriller",2h 12m,8.2/10,A,868K
+Snatch,2000,"Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.","Comedy, Crime",1h 44m,8.3/10,UA,848K
+Indiana Jones and the Last Crusade,1989,,"Action, Adventure",2h 7m,8.2/10,U,748K
+Ladri di biciclette,1948,"In post-war Italy, a working-class man's bicycle is stolen, endangering his efforts to find work. He and his son set out to find it.",Drama,1h 29m,8.3/10,U,163K
+1917,2019,,"Action, Drama, War",1h 59m,8.2/10,R,573K
+Taare Zameen Par,2007,"An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.","Drama, Family",2h 45m,8.3/10,U,192K
+Der Untergang,2004,"Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.","Biography, Drama, History",2h 36m,8.2/10,R,354K
+Per qualche dollaro in più,1965,Two bounty hunters with the same intentions team up to track down an escaped Mexican outlaw.,Western,2h 12m,8.2/10,U,255K
+Batman Begins,2005,"After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.","Action, Crime, Drama",2h 20m,8.2/10,UA,1.5M
+Dangal,2016,Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.,"Action, Biography, Drama",2h 41m,8.3/10,U,189K
+The Kid,1921,"The Tramp cares for an abandoned child, but events put their relationship in jeopardy.","Comedy, Drama, Family",1h 8m,8.3/10,Passed,126K
+Some Like It Hot,1959,"After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.","Comedy, Music, Romance",2h 1m,8.2/10,U,266K
+All About Eve,1950,A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.,Drama,2h 18m,8.2/10,Passed,131K
+The Father,2020,,"Drama, Mystery",1h 37m,8.2/10,UA,147K
+Green Book,2018,A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.,"Biography, Comedy, Drama",2h 10m,8.2/10,UA,480K
+The Wolf of Wall Street,2013,"Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.","Biography, Comedy, Crime",3h,8.2/10,A,1.4M
+Judgment at Nuremberg,1961,"In 1948, an American court in occupied Germany tries four Nazis judged for war crimes.","Drama, War",2h 59m,8.3/10,A,77K
+Spider-Man: No Way Home,2021,,"Action, Adventure, Fantasy",2h 28m,8.3/10,UA,722K
+Ran,1985,,"Action, Drama, War",2h 42m,8.2/10,U,125K
+Casino,1995,,"Crime, Drama",2h 58m,8.2/10,A,515K
+Unforgiven,1992,"Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner Ned Logan and a young man, The ""Schofield Kid.""","Drama, Western",2h 10m,8.2/10,A,410K
+Pan's Labyrinth,2006,"In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.","Drama, Fantasy, War",1h 58m,8.2/10,UA,664K
+There Will Be Blood,2007,"A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",Drama,2h 38m,8.2/10,A,581K
+The Truman Show,1998,An insurance salesman discovers his whole life is actually a reality TV show.,"Comedy, Drama",1h 43m,8.2/10,U,1.1M
+The Sixth Sense,1999,"A frightened, withdrawn Philadelphia boy who communicates with spirits seeks the help of a disheartened child psychologist.","Drama, Mystery, Thriller",1h 47m,8.2/10,A,983K
+A Beautiful Mind,2001,"After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.","Biography, Drama",2h 15m,8.2/10,UA,924K
+Monty Python and the Holy Grail,1975,"King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.","Adventure, Comedy, Fantasy",1h 31m,8.2/10,U,538K
+Yôjinbô,1961,A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.,"Action, Drama, Thriller",1h 50m,8.2/10,U,123K
+The Treasure of the Sierra Madre,1948,Two down-on-their-luck Americans searching for work in 1920s Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.,"Adventure, Drama, Western",2h 6m,8.2/10,Passed,125K
+Shutter Island,2010,"In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.","Mystery, Thriller",2h 18m,8.2/10,A,1.3M
+Jurassic Park,1993,,"Action, Adventure, Sci-Fi",2h 7m,8.2/10,UA,977K
+Rashômon,1950,"The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.","Crime, Drama, Mystery",1h 28m,8.2/10,U,168K
+The Great Escape,1963,Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.,"Adventure, Drama, History",2h 52m,8.2/10,U,244K
+Kill Bill: Vol. 1,2003,"After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.","Action, Crime, Drama",1h 51m,8.2/10,A,1.1M
+No Country for Old Men,2007,Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.,"Crime, Drama, Thriller",2h 2m,8.2/10,18,959K
+Finding Nemo,2003,"After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.","Animation, Adventure, Comedy",1h 40m,8.2/10,U,1M
+The Elephant Man,1980,,"Biography, Drama",2h 4m,8.2/10,UA,240K
+Chinatown,1974,"A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.","Drama, Mystery, Thriller",2h 10m,8.2/10,UA,325K
+Raging Bull,1980,"The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.","Biography, Drama, Sport",2h 9m,8.2/10,A,352K
+The Thing,1982,A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.,"Horror, Mystery, Sci-Fi",1h 49m,8.2/10,A,419K
+Gone with the Wind,1939,The manipulative daughter of a Georgia plantation owner conducts a turbulent romance with a roguish profiteer during the American Civil War and Reconstruction periods.,"Drama, Romance, War",3h 58m,8.2/10,U,314K
+V for Vendetta,2005,"In a future British dystopian society, a shadowy freedom fighter, known only by the alias of ""V"", plots to overthrow the tyrannical government - with the help of a young woman.","Action, Drama, Sci-Fi",2h 12m,8.2/10,UA,1.1M
+Inside Out,2015,,"Animation, Adventure, Comedy",1h 35m,8.2/10,U,703K
+"Lock, Stock and Two Smoking Barrels",1998,"Eddy persuades his three pals to pool money for a vital poker game against a powerful local mobster, Hatchet Harry. Eddy loses, after which Harry gives him a week to pay back 500,000 pounds.","Action, Comedy, Crime",1h 47m,8.2/10,A,578K
+Dial M for Murder,1954,A former tennis star arranges the murder of his adulterous wife.,"Crime, Thriller",1h 45m,8.2/10,A,175K
+El secreto de sus ojos,2009,,"Drama, Mystery, Romance",2h 9m,8.2/10,R,209K
+Hauru no ugoku shiro,2004,,"Animation, Adventure, Family",1h 59m,8.2/10,U,390K
+The Bridge on the River Kwai,1957,,"Adventure, Drama, War",2h 41m,8.2/10,U,220K
+"Three Billboards Outside Ebbing, Missouri",2017,A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.,"Comedy, Crime, Drama",1h 55m,8.1/10,A,500K
+Trainspotting,1996,"Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.",Drama,1h 33m,8.1/10,A,682K
+Warrior,2011,,"Action, Drama, Sport",2h 20m,8.2/10,UA,470K
+Gran Torino,2008,"Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, Thao Lor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.",Drama,1h 56m,8.1/10,UA,771K
+Fargo,1996,Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.,"Crime, Thriller",1h 38m,8.1/10,A,673K
+Prisoners,2013,"When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.","Crime, Drama, Mystery",2h 33m,8.1/10,A,698K
+Tonari no Totoro,1988,"When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.","Animation, Comedy, Family",1h 26m,8.1/10,U,335K
+Million Dollar Baby,2004,A determined woman works with a hardened boxing trainer to become a professional.,"Drama, Sport",2h 12m,8.1/10,UA,683K
+Catch Me If You Can,2002,"Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.","Biography, Crime, Drama",2h 21m,8.1/10,A,964K
+The Gold Rush,1925,"A prospector goes to the Klondike during the 1890s gold rush in hopes of making his fortune, and is smitten with a girl he sees in a dance hall.","Adventure, Comedy, Drama",1h 35m,8.2/10,Passed,111K
+Blade Runner,1982,"A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.","Action, Drama, Sci-Fi",1h 57m,8.1/10,UA,762K
+On the Waterfront,1954,,"Crime, Drama, Thriller",1h 48m,8.1/10,A,155K
+Bacheha-Ye aseman,1997,"After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to ""win"" a new pair.","Drama, Family, Sport",1h 29m,8.2/10,PG,75K
+The Third Man,1949,"Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.","Film-Noir, Mystery, Thriller",1h 44m,8.1/10,U,171K
+Before Sunrise,1995,"A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.","Drama, Romance",1h 41m,8.1/10,16,305K
+Ben-Hur,1959,"After a Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, he regains his freedom and comes back for revenge.","Adventure, Drama",3h 32m,8.1/10,U,238K
+12 Years a Slave,2013,"In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.","Biography, Drama, History",2h 14m,8.1/10,A,695K
+Smultronstället,1957,"After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.","Drama, Romance",1h 31m,8.1/10,U,107K
+Harry Potter and the Deathly Hallows: Part 2,2011,"Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.","Adventure, Fantasy, Mystery",2h 10m,8.1/10,UA,864K
+Gone Girl,2014,"With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.","Drama, Mystery, Thriller",2h 29m,8.1/10,A,970K
+The General,1926,,"Action, Adventure, Comedy",1h 7m,8.2/10,Passed,91K
+The Deer Hunter,1978,An in-depth examination of the ways in which the Vietnam War impacts and disrupts the lives of several friends in a small steel mill town in Pennsylvania.,"Drama, War",3h 3m,8.1/10,A,338K
+In the Name of the Father,1993,A man's coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.,"Biography, Crime, Drama",2h 13m,8.1/10,UA,174K
+The Grand Budapest Hotel,2014,"A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.","Adventure, Comedy, Crime",1h 39m,8.1/10,UA,797K
+Barry Lyndon,1975,An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.,"Adventure, Drama, War",3h 5m,8.1/10,U,167K
+Le salaire de la peur,1953,"In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.","Adventure, Drama, Thriller",2h 11m,8.2/10,U,61K
+Mr. Smith Goes to Washington,1939,,"Comedy, Drama",2h 9m,8.1/10,U,116K
+Sherlock Jr.,1924,"A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.","Action, Comedy, Romance",45m,8.2/10,Passed,50K
+Hacksaw Ridge,2016,,"Biography, Drama, History",2h 19m,8.1/10,A,516K
+Salinui chueok,2003,"In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.","Crime, Drama, Mystery",2h 11m,8.1/10,UA,180K
+Klaus,2019,,"Animation, Adventure, Comedy",1h 36m,8.1/10,7,147K
+Relatos salvajes,2014,Six short stories that explore the extremities of human behavior involving people in distress.,"Comedy, Drama, Thriller",2h 2m,8.1/10,18,197K
+Det sjunde inseglet,1957,"A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.","Drama, Fantasy",1h 36m,8.1/10,A,184K
+Room,2015,"Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.","Drama, Thriller",1h 58m,8.1/10,U,417K
+Everything Everywhere All at Once,2022,"An aging Chinese immigrant is swept up in an insane adventure, in which she alone can save the world by exploring other universes connecting with the lives she could have led.","Action, Adventure, Comedy",2h 19m,8.1/10,A,200K
+Mad Max: Fury Road,2015,,"Action, Adventure, Sci-Fi",2h,8.1/10,UA,989K
+How to Train Your Dragon,2010,"A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.","Animation, Action, Adventure",1h 38m,8.1/10,U,733K
+The Big Lebowski,1998,,"Comedy, Crime",1h 57m,8.1/10,UA,801K
+Mary and Max.,2009,,"Animation, Comedy, Drama",1h 32m,8.1/10,Not Rated,177K
+Jaws,1975,"When a killer shark unleashes chaos on a beach community off Cape Cod, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.","Adventure, Thriller",2h 4m,8.1/10,A,599K
+"Monsters, Inc.",2001,,"Animation, Adventure, Comedy",1h 32m,8.1/10,U,899K
+Tôkyô monogatari,1953,"An old couple visit their children and grandchildren in the city, but receive little attention.",Drama,2h 16m,8.2/10,U,62K
+Dead Poets Society,1989,Maverick teacher John Keating uses poetry to embolden his boarding school students to new heights of self-expression.,"Comedy, Drama",2h 8m,8.1/10,U,484K
+La passion de Jeanne d'Arc,1928,"In 1431, Jeanne d'Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.","Biography, Drama, History",1h 50m,8.2/10,Passed,55K
+Hotel Rwanda,2004,"Paul Rusesabagina, a hotel manager, houses over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda, Africa.","Biography, Drama, History",2h 1m,8.1/10,UA,355K
+Rocky,1976,A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.,"Drama, Sport",2h,8.1/10,U,570K
+Ford v Ferrari,2019,,"Action, Biography, Drama",2h 32m,8.1/10,UA,383K
+Platoon,1986,,"Drama, War",2h,8.1/10,UA,412K
+Pather Panchali,1955,"Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",Drama,2h 5m,8.3/10,U,33K
+Stand by Me,1986,"After the death of one of his friends, a writer recounts a childhood journey with his friends to find the body of a missing boy.","Adventure, Drama",1h 29m,8.1/10,U,400K
+The Terminator,1984,,"Action, Sci-Fi",1h 47m,8.1/10,UA,856K
+Spotlight,2015,"The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.","Biography, Crime, Drama",2h 9m,8.1/10,A,466K
+Rush,2013,The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.,"Action, Biography, Drama",2h 3m,8.1/10,R,476K
+Logan,2017,,"Action, Drama, Sci-Fi",2h 17m,8.1/10,A,750K
+Network,1976,"A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit, but finds that his message may be difficult to control.",Drama,2h 1m,8.1/10,UA,159K
+Ratatouille,2007,A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.,"Animation, Adventure, Comedy",1h 51m,8.1/10,U,724K
+Into the Wild,2007,,"Adventure, Biography, Drama",2h 28m,8.1/10,U,619K
+The Wizard of Oz,1939,,"Adventure, Family, Fantasy",1h 42m,8.1/10,U,397K
+Groundhog Day,1993,"A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day, and the day keeps repeating until he gets it right.","Comedy, Drama, Fantasy",1h 41m,8.1/10,U,625K
+Before Sunset,2004,"Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.","Drama, Romance",1h 20m,8.1/10,A,262K
+The Exorcist,1973,"When a teenage girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.",Horror,2h 2m,8.1/10,A,401K
+The Best Years of Our Lives,1946,"Three World War II veterans, two of them traumatized or disabled, return home to the American midwest to discover that they and their families have been irreparably changed.","Drama, Romance, War",2h 50m,8.1/10,Approved,64K
+The Incredibles,2004,"While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.","Animation, Action, Adventure",1h 55m,8.0/10,U,728K
+To Be or Not to Be,1942,"During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.","Comedy, Romance, War",1h 39m,8.2/10,Passed,37K
+La battaglia di Algeri,1966,"In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.","Drama, War",2h 1m,8.1/10,Not Rated,60K
+The Grapes of Wrath,1940,,Drama,2h 9m,8.1/10,Passed,93K
+Rebecca,1940,A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.,"Drama, Film-Noir, Mystery",2h 10m,8.1/10,Approved,137K
+Hachi: A Dog's Tale,2009,A college professor bonds with an abandoned dog he takes into his home.,"Biography, Drama, Family",1h 33m,8.1/10,U,283K
+Cool Hand Luke,1967,"A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.","Crime, Drama",2h 7m,8.1/10,A,177K
+Amores perros,2000,"A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.","Drama, Thriller",2h 34m,8.1/10,A,240K
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,"Blacksmith Will Turner teams up with eccentric pirate ""Captain"" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.","Action, Adventure, Fantasy",2h 23m,8.1/10,UA,1.1M
+Jai Bhim,2021,"When a tribal man is arrested for a case of alleged theft, his wife turns to a human-rights lawyer to help bring justice.","Crime, Drama, Mystery",2h 44m,8.9/10,A,198K
+La haine,1995,24 hours in the lives of three young men in the French suburbs the day after a violent riot.,"Crime, Drama",1h 38m,8.1/10,Not Rated,172K
+Babam ve Oglum,2005,The family of a left-wing journalist is torn apart after the military coup of Turkey in 1980.,"Drama, Family",1h 52m,8.2/10,Not Rated,87K
+Les quatre cents coups,1959,"A young boy, left without attention, delves into a life of petty crime.","Crime, Drama",1h 39m,8.1/10,U,117K
+Persona,1966,A nurse is put in charge of a mute actress and finds that their personae are melding together.,"Drama, Thriller",1h 25m,8.1/10,Not Rated,118K
+It Happened One Night,1934,,"Comedy, Romance",1h 45m,8.1/10,Passed,104K
+The Sound of Music,1965,A young novitiate is sent by her convent in 1930s Austria to become a governess to the seven children of a widowed naval officer.,"Biography, Drama, Family",2h 52m,8.1/10,U,232K
+Life of Brian,1979,"Born on the original Christmas in the stable next door to Jesus Christ, Brian of Nazareth spends his life being mistaken for a messiah.",Comedy,1h 34m,8.0/10,R,398K
+Ah-ga-ssi,2016,"A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.","Drama, Romance, Thriller",2h 25m,8.1/10,A,144K
+Dersu Uzala,1975,The Russian army sends an explorer on an expedition to the snowy Siberian wilderness where he makes friends with a seasoned local hunter.,"Adventure, Biography, Drama",2h 22m,8.2/10,U,30K
+Aladdin,1992,A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.,"Animation, Adventure, Comedy",1h 30m,8.0/10,U,414K
+Gandhi,1982,The life of the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of nonviolent protest.,"Biography, Drama",3h 11m,8.1/10,U,231K
+The Help,2011,,Drama,2h 26m,8.1/10,UA,456K
+The Iron Giant,1999,A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.,"Animation, Action, Adventure",1h 26m,8.1/10,U,194K
